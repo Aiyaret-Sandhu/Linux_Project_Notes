@@ -1,6 +1,2 @@
-# Ignore the PAT.txt file
-PAT.txt
-
-# Ignore the entire script_data directory
-script_data/
-
+notes.md
+db.cnf
